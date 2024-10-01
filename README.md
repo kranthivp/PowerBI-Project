@@ -1,13 +1,17 @@
-# PowerBI-Project
-
 # Walmart-Dashboard
 
-### Dashboard Link :
-https://app.powerbi.com/view?r=eyJrIjoiYWUyMjQzMjYtZjY1My00ZDIyLTliNTYtOTFlYmIzNDY5MjVmIiwidCI6IjliY2E4YmJhLWIzZTUtNDNjNi04NjE0LTRhNWZhZWM0MDZmMSJ9
+# Description
+
+Walmart is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States and 23 other countries. It is headquartered in Bentonville, Arkansas.
+
+Walmart is the world's largest company by revenue, according to the Fortune Global 500 list in October 2022. Walmart is also the largest private employer in the world with 2.1 million employees. It is a publicly traded family-owned business.
+
+Walmart's investments outside the U.S. have seen mixed results. Its operations and subsidiaries in Canada, the United Kingdom (ASDA), Central America, South America, and China are successful, but its ventures failed in Germany, Japan, South Korea, Brazil and Argentina
+
 
 ## Problem Statement
 
-This dashboard helps the Walmart understand their customers better. It helps to  know, their sales and profit/loss. Through different analysis, they get to know their improvement area, & thus they can improve their sales by promotions and rewards in identified areas. It also let them know their average sales state wise and profits per year. Thus by using this dashboard they can identify the problem, and they can further work on factors responsible for it .
+This dashboard help to understand customers and their choices better. It helps to  know, their sales and profit/loss. Through different analysis, they get to know their improvement area, & thus they can improve their sales by promotions and rewards in identified areas. It also let them know their average sales state wise and profits per year. Thus by using this dashboard they can identify the problem, and they can further work on factors responsible for it .
 
 Since, number of customers in other sates are very less compared to California, they must work on improving their services in identified states. 
 
