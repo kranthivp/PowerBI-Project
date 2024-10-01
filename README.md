@@ -59,14 +59,13 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers = 686
+#### [1] Total Number of Customers = 686
 
-### [2] Total sales = 2348
+#### [2] Total sales = 2348
 
-### [3] Total Profit = 108.42k
+#### [3] Total Profit = 108.42k
   
-
-### [4] Most selling products in each category
+#### [4] Most selling products in each category
  
 ### Furniture
 
