@@ -66,6 +66,7 @@ Following inferences can be drawn from the dashboard;
 #### [3] Total Profit = 108.42k
   
 #### [4] Most selling products in each category
+
  
 ### Furniture
 
