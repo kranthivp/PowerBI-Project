@@ -1,6 +1,6 @@
 # Walmart-Dashboard
 
-# Description
+## Description
 
 Walmart is an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores in the United States and 23 other countries. It is headquartered in Bentonville, Arkansas.
 
@@ -53,7 +53,7 @@ In our dataset, discount column has some values assigned 0, representing those p
 - Step 15 : The report was then published to Power BI Service.
  
  
-# Insights
+## Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
