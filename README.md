@@ -11,7 +11,7 @@ Walmart's investments outside the U.S. have seen mixed results. Its operations a
 
 ## Problem Statement
 
-This dashboard help to understand customers and their choices better. It helps to  know, their sales and profit/loss. Through different analysis, they get to know their improvement area, & thus they can improve their sales by promotions and rewards in identified areas. It also let them know their average sales state wise and profits per year. Thus by using this dashboard they can identify the problem, and they can further work on factors responsible for it .
+This dashboard help walmart understand customers and their choices better. Through different analysis, they get to know their improvement area, & thus they can improve their sales by promotions and rewards in identified areas. It also let them know their average sales state wise and profit per year. Thus by using this dashboard they can identify the issues, and can further work on factors responsible for it .
 
 Since, number of customers in other sates are very less compared to California, they must work on improving their services in identified states. 
 
